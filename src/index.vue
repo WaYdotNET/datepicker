@@ -10,7 +10,7 @@
 import BasicInput from './BasicInput'
 import SingleInput from './SingleInput'
 import WrapperInput from './WrapperInput'
-import Flatpickr from 'flatpickr'
+import Flatpickr from 'flatpickr-waydotnet'
 
 export default {
   mixins: [BasicInput],
@@ -106,7 +106,7 @@ $day_hover_background_color = #d3d6db
 $today_color = #ed6c63
 $selected_day_background = #1fc8db
 
-@import '~flatpickr/src/style/flatpickr'
+@import '~flatpickr-waydotnet/src/style/flatpickr'
 
 .flatpickr-calendar.hasWeeks
   width: auto !important
