@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-flatpickr@2.6.3:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-2.6.3.tgz#457357532deb135f3da64b425bf4435737961564"
+flatpickr-waydotnet@3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/flatpickr-waydotnet/-/flatpickr-waydotnet-3.0.8.tgz#fba8700c431e8a08cbc4046b52ba6fe4f9c74568"
 
 vue-click-outside@1.0.6:
   version "1.0.6"
